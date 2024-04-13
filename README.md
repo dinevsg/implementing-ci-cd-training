@@ -1,4 +1,4 @@
-<h1>Intro<h1>
+<h1>Intro</h1>
 <p>• Create a new branch and switch to it<p>
 <p>• Create a pull request to propose merging the junior-dev branch into the main branch</p>
 <p>• Implement a CI system in GitHub actions to build and unit test the application</p>
